@@ -2,7 +2,7 @@
 
 ### **<div align="center">a programmer and developer, a computer engineering student 👨‍🎓 majoring in software.</div>**  
   
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
 - 🔭 I’m currently working on Interaction Games using camera(https://t.me/Hossienhunta)  

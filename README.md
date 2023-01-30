@@ -2,6 +2,7 @@
   
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380"/>
 
+**Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on **Interaction Games using camera**.
   
@@ -21,7 +22,7 @@
 <br/>  
 
 
-## My Skill Set  
+**My Skills:**  
 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  

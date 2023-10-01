@@ -4,7 +4,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on **Seed.Photo and X180 Projects**.
+- 🔭 I’m currently working on **Seed.Photo and X180.io Projects**.
   
 
 - 🌱 I’m currently learning **React.js, Web3, Image Processing, Artificial intelligence(AI)**.  

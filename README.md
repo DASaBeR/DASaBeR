@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Seed.Photo and X180.io Projects**.
   
 
-- 🌱 I’m currently learning **React.js, Web3, Image Processing, Artificial intelligence(AI)**.  
+- 🌱 I’m currently learning **Microservices architecture**.  
   
   
 - 😄 Fun fact: I have Bachelor's degree in Mechanical engineering. 
@@ -16,7 +16,7 @@
 - ❓ Ask me about **anything, I am happy to help.**  
   
 
-- 📫 How to reach me **M.Saberi1999@Gmail.com ,** **[Telegram](https://t.me/M_sab3ri)**  
+- 📫 How to reach me **m.saberi3d@gmail.com ,** **[Telegram](https://t.me/M_sab3ri)**  
   
 
 <br/>  

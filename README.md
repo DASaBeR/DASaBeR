@@ -61,10 +61,7 @@
 </a>
 <a href="https://instagram.com/m.sab3ri/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/19898109" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
   
 
@@ -79,5 +76,3 @@
 </td><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasaber&hide_border=true&layout=compact" align="center" /></div>
-
-[![user:19898109's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19898109?theme=graywhite&website=true&location=true)](https://stackoverflow.com/users/19898109)
